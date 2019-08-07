@@ -1,6 +1,23 @@
 header{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT23pDEaTPhSr6cF-jfQYSxV31ceJqzYklJQC6VSJVMblhLp8mo");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89FB523FGrvRozOowc9VJaaVUghX2R7BGI1YqEsg3q4wLDZLjaA");
   height:100vh;
   background-size: cover;
-  background-position: fixed;
+  background-position: absolute;
+}
+nav{
+  float: right;
+  list-style: none;
+  margin-top: 35px;
+}
+nav li{
+  display: inline-block;
+}
+nav li a:hover{
+  border: 3px solid aqua blue;
+}
+nav li a {
+  color:darkblack;
+  text-decoration: none;
+  font-size: 30px;
+  padding: 5px;
 }
