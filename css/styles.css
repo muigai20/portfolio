@@ -13,7 +13,7 @@ nav li{
   display: inline-block;
 }
 nav li a:hover{
-  border: 3px solid aqua blue;
+  border: 3px solid aquablue;
 }
 nav li a {
   color:darkblack;
