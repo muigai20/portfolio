@@ -13,7 +13,7 @@ nav li{
   display: inline-block;
 }
 nav li a:hover{
-  border: 3px solid aquablue;
+  border: 3px solid blue;
 }
 nav li a {
   color:darkblack;
@@ -21,3 +21,15 @@ nav li a {
   font-size: 30px;
   padding: 5px;
 }
+#head{
+  text-align: center;
+}
+
+  h1{
+    text-align:center;
+    font-size:60px;
+    color:black;
+    top:322px;
+    position:relative;
+    left:196px;
+  }
