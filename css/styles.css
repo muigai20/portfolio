@@ -33,3 +33,11 @@ nav li a {
     position:relative;
     left:196px;
   }
+  h2{
+  text-align:center;
+  font-size:50px;
+  color:black;
+  position:relative;
+  top: 279px;
+  left: 21px;
+  }
