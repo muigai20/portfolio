@@ -3,7 +3,7 @@ header{
   height:100vh;
   background-size: cover;
   background-position: fixed;
-  
+
 
 }
 nav{
@@ -46,13 +46,11 @@ nav li a {
   left: 21px;
   font-family: 'Coustard', serif;
 
-  }
-  #social{
-
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-
-    right:100px;
-
-  }
+}
+#social{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 0.5em;
+  border-top: 19em;
+}
