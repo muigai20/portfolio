@@ -54,3 +54,16 @@ nav li a {
   padding: 0.5em;
   border-top: 19em;
 }
+#sam{
+  float:right;
+  margin-right: 6%;
+
+}
+h3{
+  font-size: 45px;
+  color:salmon;
+
+}
+li{
+  font-size: 21px;
+}
