@@ -45,3 +45,12 @@ nav li a {
   font-family: 'Coustard', serif;
 
   }
+  #social{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    right:100px;
+    margin-left: 10%;
+    }
