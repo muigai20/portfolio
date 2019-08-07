@@ -16,7 +16,7 @@ nav li a:hover{
   border: 3px solid blue;
 }
 nav li a {
-  color:darkblack;
+  color:black;
   text-decoration: none;
   font-size: 30px;
   padding: 5px;
@@ -32,6 +32,8 @@ nav li a {
     top:322px;
     position:relative;
     left:196px;
+    font-family: 'Coustard', serif;
+
   }
   h2{
   text-align:center;
@@ -40,4 +42,6 @@ nav li a {
   position:relative;
   top: 279px;
   left: 21px;
+  font-family: 'Coustard', serif;
+
   }
