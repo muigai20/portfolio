@@ -1,0 +1,26 @@
+#
+Joseph's Portfolio
+####
+Joseph is an upcoming developer living in Nairobi and is looking for prospective partners and customers.
+####
+ By Joseph
+## Description
+This is a project giving more details about myself, what i do and some of my works that I have undertaken.
+## Setup/Installation Requirements
+Open your terminal (ctrl+alt+T)
+Initialize git on your terminal
+git clone https://github.com/muigai20/portfolio.git
+open the portfolio folder
+Open the file named index.html on your preferred internet browser.
+## Known Bugs
+Currently I have not discovered any bugs.
+
+## Technologies Used
+HTML
+CSS
+## Support and contact details
+Email : muigaijosephkamau@gmail.com
+phone no : 0714011649
+### License
+mit
+Copyright (c) 2019  Joseph Kamau
