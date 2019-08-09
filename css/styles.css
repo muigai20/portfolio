@@ -1,83 +1,89 @@
-header{
+header {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89FB523FGrvRozOowc9VJaaVUghX2R7BGI1YqEsg3q4wLDZLjaA");
-  height:100vh;
+  height: 100vh;
   background-size: cover;
   background-position: fixed;
-
-
 }
-nav{
+
+nav {
   float: right;
   list-style: none;
   margin-top: 35px;
 }
-nav li{
+
+nav li {
   display: inline-block;
 }
-nav li a:hover{
+
+nav li a:hover {
   border: 3px solid blue;
 }
+
 nav li a {
-  color:black;
+  color: black;
   text-decoration: none;
   font-size: 30px;
   padding: 5px;
 }
-#head{
+
+#head {
   text-align: center;
 }
 
-  h1{
-    text-align:center;
-    font-size:60px;
-    color:black;
-    top:322px;
-    position:relative;
-    left:196px;
-    font-family: 'Coustard', serif;
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: black;
+  top: 322px;
+  position: relative;
+  left: 196px;
+  font-family: 'Coustard', serif;
+}
 
-  }
-  h2{
-  text-align:center;
-  font-size:50px;
-  color:black;
-  position:relative;
+h2 {
+  text-align: center;
+  font-size: 50px;
+  color: black;
+  position: relative;
   top: 279px;
   left: 21px;
   font-family: 'Coustard', serif;
-
 }
-#social{
+
+#social {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   padding: 0.5em;
   border-top: 19em;
 }
-#sam{
-  float:right;
+
+#sam {
+  float: right;
   margin-right: 6%;
-
 }
-h3{
+
+h3 {
   font-size: 45px;
-  color:salmon;
-
+  color: salmon;
 }
-li{
+
+li {
   font-size: 21px;
 }
-h4{
+
+h4 {
   text-align: center;
   font-size: 45px;
-  color:salmon;
+  color: salmon;
 }
-#pro{
+
+#pro {
   text-align: center;
   font-size: 21px;
-
 }
-.one, .two, .three{
+
+.one, .two, .three {
   display: flex;
   flex-direction: column;
   width: auto;
@@ -85,10 +91,14 @@ h4{
   padding: 0.8em;
   border: 1px solid silver;
 }
+
 footer{
-  background-color: salmon;
-  color: white;
-  font-size: 30px;
+  background-image: url(https://static1.squarespace.com/static/58a5b151ff7c50c87f2bec90/t/58b486abff7c502bdb628328/1488225968295/contact_us_background2.jpg?format=1500w);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 4em;
   text-align:center;
-  background-position: relative;
+color: white;
+z-index: auto;
+opacity: 0.8;
 }
