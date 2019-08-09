@@ -2,7 +2,7 @@ header {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89FB523FGrvRozOowc9VJaaVUghX2R7BGI1YqEsg3q4wLDZLjaA");
   height: 100vh;
   background-size: cover;
-  background-position: fixed;
+  background-position: center;
 }
 
 nav {
@@ -108,5 +108,6 @@ body {
   margin: 0 auto;
   box-sizing: border-box;
   font-size: 19px;
+
 
 }
