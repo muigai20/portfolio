@@ -102,3 +102,11 @@ color: white;
 z-index: auto;
 opacity: 0.8;
 }
+body {
+  background-color:black ;
+  color: #FFF0F5	;
+  margin: 0 auto;
+  box-sizing: border-box;
+  font-size: 19px;
+
+}
